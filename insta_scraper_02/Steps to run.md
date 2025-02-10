@@ -26,7 +26,7 @@ python ai_scrapper.py username -n 10
 
 example run 
 ```
- python scraper_w_ai.py aquaticbrewing -n 10
+ python ai_scrapper.py aquaticbrewing -n 10
 ```
 ## Output
 excel file with columns: userhandle, date, image_path, screenshot_path, likes, original_caption, image_context, caption_summary, keywords
