@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Project specific (insta_scraper_02)
+*.DS_Store
+*.env
+/insta_scraper_02/images
+/insta_scraper_02/post_screenshots
+/insta_scraper_02/virt
+*.xlsx
+*.json
+
